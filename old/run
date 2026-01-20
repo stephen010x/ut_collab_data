@@ -1,0 +1,3 @@
+#!/bin/bash
+
+uv run $1/main/run
